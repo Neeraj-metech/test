@@ -16,11 +16,8 @@
         <li>list 4</li>
         <li>list 5</li>
         <li>list 6</li>
-<<<<<<< HEAD
         <li>overwrite</li>
-=======
         <li>branch list-item add</li>
->>>>>>> ee8a9771625e57f21291a8c231145611afb1124d
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam adipisci alias dicta voluptates facilis eveniet quis, nemo reprehenderit iste ipsum repudiandae quod velit deserunt, dolores nam sequi veritatis illo nesciunt?</p>
     </ul>
 </body>
