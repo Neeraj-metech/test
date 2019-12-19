@@ -10,6 +10,7 @@
     <h1>Git Tutorials</h1>
     <ul>
         <li>list 1</li>
+        <li>list 1.2</li>
         <li>list 2</li>
         <li>list 3</li>
         <li>list 4</li>
