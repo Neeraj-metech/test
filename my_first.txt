@@ -6,5 +6,9 @@ What is Laravel Mix?
 
 From here test content for git
 
+<<<<<<< HEAD
 
 neeraj branch changes
+=======
+edit by master
+>>>>>>> master
